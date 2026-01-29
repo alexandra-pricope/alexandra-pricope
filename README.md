@@ -60,24 +60,14 @@ Il **livello delle mie competenze** è medio: ho una *base solida*, ma *non prof
 Ho vari **interessi personali** e **hobby**:
 
 
-| :--- | :--- |
-
-| *pallavolo* | mi alleno da quando ho 11 anni e sono allenatrice di una squadra di ragazze di 14-15 anni |
-
-
-| *musica* | i miei generi preferiti sono l'r&b e l'hip hop, anche se in generale ascolto un po' di tutto | 
-
-
-| *cinema* | amo i thriller psicologici e i film storici |
-
-
-| *leggere* |soprattutto i gialli e libri che trattano temi filosofici e psicologici |
-
-
-| *astrofisica* | durante la pandemia ho iniziato a guardare documentari su questo ambito e mi sono appassionata |
-
-
-| *arte-storia* | adoro visitare palazzi e musei, soprattutto in buona compagnia |
+| Interesse / Hobby | Descrizione |
+|-------------------|-------------|
+| pallavolo | Mi alleno da quando ho 11 anni e sono allenatrice di una squadra di ragazze di 14–15 anni |
+| musica | I miei generi preferiti sono R&B e hip hop, anche se in generale ascolto un po’ di tutto |
+| cinema | Amo i thriller psicologici e i film storici |
+| leggere | Soprattutto gialli e libri che trattano temi filosofici e psicologici |
+| astrofisica | Durante la pandemia ho iniziato a guardare documentari su questo ambito e mi sono appassionata |
+| arte-storia | adoro visitare palazzi e musei, soprattutto in buona compagnia |
 
 
 
