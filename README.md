@@ -61,6 +61,7 @@ Ho vari **interessi personali** e **hobby**:
 
 
 | :--- | :--- |
+
 | *pallavolo* | mi alleno da quando ho 11 anni e sono allenatrice di una squadra di ragazze di 14-15 anni |
 
 
