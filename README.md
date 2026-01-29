@@ -35,7 +35,7 @@ Tuttavia, tra le mie materie preferite ci sono anche Letteratura e Storia.
 
 La mia materia preferita in assoluto è **fisica**. Ho scelto di fare il liceo scientifico perchè e da quando sono piccola che sono attratta dall'ambito dell'**astrofisica**🔭, che purtoppo al liceo è poco trattato. A mio parere, fisica è la materia scientifica che più si collega a tematiche umanistiche: "come siamo nati?", "qual è il senso della vita se per l'universo siamo insignificanti?"
 
-Un'altra materia che mi piace molto è **letteratura**, perchè molti autori riescono a mettere su un foglio di carta ciò che io non riesco nemmeno a esprimere ad alta voce. Adoro immedesimarmi in scrittori, poeti e personaggi inventati, perchè **ognuno di loro ha qualcosa da insegnarmi**💬. 
+Un'altra materia che mi piace molto è **letteratura**, perchè molti autori riescono a mettere su un foglio di carta ciò che io non riesco nemmeno a esprimere ad alta voce. Adoro riuscire a immedesimarmi nelle parole di scrittori, poeti e personaggi inventati e **ognuno di loro ha qualcosa da insegnarmi**💬. 
 
 
 
