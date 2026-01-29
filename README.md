@@ -11,7 +11,6 @@
 
 
  
-
 - Sono nata il 4 luglio del 2006, quindi ho **19 anni**. 
 
 - Sono una ragazza **curiosa**, che ha sempre voglia di imapare cose nuove, non solo riguardanti l'ambito scientifico. 
@@ -19,7 +18,6 @@
 - Sono nata e cresciuta in Italia, ma ho **origini rumene** da parte di entrambi i miei genitori.
 
 - A differenza di molti studenti del liceo scientifico, ho una mente **sia scientifica sia umanistica**: infatti sono attratta da entrambi i mondi!  
-
 
 
 
@@ -32,11 +30,9 @@ Le mie **materie scientifiche preferite** sono:
 Tuttavia, tra le mie materie preferite ci sono anche Letteratura e Storia. 
 
 
-
 La mia materia preferita in assoluto è **fisica**. Ho scelto di fare il liceo scientifico perchè e da quando sono piccola che sono attratta dall'ambito dell'**astrofisica**🔭, che purtoppo al liceo è poco trattato. A mio parere, fisica è la materia scientifica che più si collega a tematiche umanistiche: "come siamo nati?", "qual è il senso della vita se per l'universo siamo insignificanti?"
 
 Un'altra materia che mi piace molto è **letteratura**, perchè molti autori riescono a mettere su un foglio di carta ciò che io non riesco nemmeno a esprimere ad alta voce. Adoro riuscire a immedesimarmi nelle parole di scrittori, poeti e personaggi inventati e **ognuno di loro ha qualcosa da insegnarmi**💬. 
-
 
 
 
@@ -61,21 +57,25 @@ In questi anni grazie al liceo scientifico ho raggiunto molte **competenze** e i
 Il **livello delle mie competenze** è medio: ho una *base solida*, ma *non professionale* (che raggiungerò all'università): una volta finito il liceo, avrò il *Diploma di scuola superiore* (Livello scuola secondaria di secondo grado). 
 
 
-
 Ho vari **interessi personali** e **hobby**:
 
-- *pallavolo*: mi alleno da quando ho 11 anni e sono allenatrice di una squadra di ragazze di 14-15 anni
 
-- *musica*: i miei generi preferiti sono l'r&b e l'hip hop, anche se in generale ascolto un po' di tutto. 
+| *pallavolo* | mi alleno da quando ho 11 anni e sono allenatrice di una squadra di ragazze di 14-15 anni |
 
-- *cinema*: amo i thriller psicologici e i film storici
 
-- *leggere*: soprattutto i gialli e libri che trattano temi filosofici e psicologici
+| *musica* | i miei generi preferiti sono l'r&b e l'hip hop, anche se in generale ascolto un po' di tutto | 
 
-- *astrofisica*: durante la pandemia ho iniziato a guardare documentari su questo ambito e mi sono appassionata
 
-- *arte-storia*: adoro visitare palazzi e musei, soprattutto in buona compagnia 
+| *cinema* | amo i thriller psicologici e i film storici |
 
+
+| *leggere* |soprattutto i gialli e libri che trattano temi filosofici e psicologici |
+
+
+| *astrofisica* | durante la pandemia ho iniziato a guardare documentari su questo ambito e mi sono appassionata |
+
+
+| *arte-storia* | adoro visitare palazzi e musei, soprattutto in buona compagnia |
 
 
 
