@@ -93,7 +93,7 @@ Gli **obiettivi** che vorrei raggiungere quest'anno sono:
 
 Invece **dopo il diploma** vorrei:
 
-- inscrivermi alla *facoltà di Fisica* all'Università di Bicocca di Milano
+- inscrivermi alla *facoltà di Fisica* all'Università Bicocca di Milano
 
 - Iniziare a *lavorare*, per raggiungere un livello più alto di autonomia e aiutare i miei genitori
 
