@@ -36,7 +36,7 @@ Un'altra materia che mi piace molto è **letteratura**📚, perchè molti autori
 
 
 
-In questi anni grazie al liceo scientifico ho raggiunto molte **competenze** 🧠 e in vari ambiti: 
+In questi anni grazie al liceo scientifico ho raggiunto molte **competenze** 🧠 in vari ambiti: 
 
 - Metodo scientifico e ragionamento logico
 
