@@ -11,7 +11,7 @@
 
 
  
-- Sono nata il 4 luglio del 2006, quindi ho **19 anni**. 
+- Sono nata il 4 luglio del 2006: ho **19 anni**. 
 
 - Sono una ragazza **curiosa**, che ha sempre voglia di imapare cose nuove, non solo riguardanti l'ambito scientifico. 
 
