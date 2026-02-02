@@ -54,7 +54,7 @@ In questi anni grazie al liceo scientifico ho raggiunto molte **competenze** �
 
 - Competenze laboratoriali (Fisica, Informatica e Chimica): svolgere esperimenti, usare strumenti di laboratorio, raccogliere e analizzare dati sperimentali
 
-Il **livello delle mie competenze** è medio: ho una *base solida*, ma *non professionale* (che raggiungerò all'università): una volta finito il liceo, avrò il *Diploma di scuola superiore* (Livello scuola secondaria di secondo grado). 
+Il **livello delle mie competenze** è medio: ho una *base solida*, ma *non specializzato* (che raggiungerò all'università): una volta finito il liceo, avrò il *Diploma di scuola superiore* (Livello scuola secondaria di secondo grado). 
 
 
 Ho vari **interessi personali** e **hobby**:
